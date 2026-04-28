@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  /* UL brand colour palette */
+  --color-ul-yellow: #f1c800;
+  --color-ul-yellow-hover: #d4af00;
+  --color-ul-yellow-light: #fef9d9;
+  --color-ul-black: #1a1a1a;
+  --color-ul-gray: #6b7280;
+  --color-ul-gray-light: #f3f4f6;
+  --color-ul-white: #ffffff;
+
+  /* Typography */
+  --font-sans: 'Inter', system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900 font-sans antialiased;
+  }
+}
+
+@layer components {
+  /* UL yellow button */
+  .btn-ul {
+    @apply inline-flex items-center justify-center rounded-full bg-ul-yellow px-5 py-2
+           text-sm font-semibold text-black hover:bg-ul-yellow-hover
+           focus:outline-none focus:ring-2 focus:ring-ul-yellow focus:ring-offset-2
+           transition-colors disabled:opacity-50;
+  }
+
+  /* Period pill — active */
+  .btn-pill-active {
+    @apply rounded-full bg-ul-yellow px-4 py-1.5 text-sm font-semibold text-black
+           focus:outline-none focus:ring-2 focus:ring-ul-yellow focus:ring-offset-1
+           transition-colors;
+  }
+
+  /* Period pill — inactive */
+  .btn-pill-inactive {
+    @apply rounded-full border border-gray-300 bg-white px-4 py-1.5 text-sm font-medium text-gray-700
+           hover:border-gray-400 hover:bg-gray-50
+           focus:outline-none focus:ring-2 focus:ring-ul-yellow focus:ring-offset-1
+           transition-colors;
+  }
+
+  /* Card */
+  .ul-card {
+    @apply rounded-2xl bg-white p-5 shadow-sm ring-1 ring-black/5;
+  }
+
+  /* Form inputs */
+  .ul-input {
+    @apply w-full rounded-lg border border-gray-300 bg-white px-3 py-2 text-sm
+           focus:border-ul-yellow focus:outline-none focus:ring-2 focus:ring-ul-yellow/40
+           transition-colors;
+  }
+
+  /* KPI badges */
+  .ul-badge-green {
+    @apply inline-flex items-center rounded-full bg-green-100 px-2 py-0.5 text-sm font-medium text-green-800;
+  }
+
+  .ul-badge-amber {
+    @apply inline-flex items-center rounded-full bg-amber-100 px-2 py-0.5 text-sm font-medium text-amber-800;
+  }
+
+  .ul-badge-red {
+    @apply inline-flex items-center rounded-full bg-red-100 px-2 py-0.5 text-sm font-medium text-red-800;
+  }
+}
+

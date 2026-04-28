@@ -1,0 +1,299 @@
+[
+  {
+    "departureId": "mock-008296",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T06:00:00Z",
+    "actualTime": "2026-04-21T06:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008297",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T07:30:00Z",
+    "actualTime": "2026-04-21T07:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008298",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T09:00:00Z",
+    "actualTime": "2026-04-21T09:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008299",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T10:30:00Z",
+    "actualTime": "2026-04-21T10:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008300",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T12:00:00Z",
+    "actualTime": "2026-04-21T12:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008301",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T13:30:00Z",
+    "actualTime": "2026-04-21T13:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008302",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T15:00:00Z",
+    "actualTime": "2026-04-21T15:05:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 5
+  },
+  {
+    "departureId": "mock-008303",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T16:30:00Z",
+    "actualTime": "2026-04-21T16:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008304",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T18:00:00Z",
+    "actualTime": "2026-04-21T18:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008305",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T19:30:00Z",
+    "actualTime": "2026-04-21T19:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008306",
+    "lineId": "801",
+    "stopId": "740000001",
+    "scheduledTime": "2026-04-21T21:00:00Z",
+    "actualTime": "2026-04-21T21:10:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 10
+  },
+  {
+    "departureId": "mock-008307",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T06:00:00Z",
+    "actualTime": "2026-04-21T06:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008308",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T07:30:00Z",
+    "actualTime": null,
+    "cancelled": true,
+    "delayMinutes": null
+  },
+  {
+    "departureId": "mock-008309",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T09:00:00Z",
+    "actualTime": "2026-04-21T09:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008310",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T10:30:00Z",
+    "actualTime": "2026-04-21T10:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008311",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T12:00:00Z",
+    "actualTime": "2026-04-21T12:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008312",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T13:30:00Z",
+    "actualTime": "2026-04-21T13:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008313",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T15:00:00Z",
+    "actualTime": "2026-04-21T15:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008314",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T16:30:00Z",
+    "actualTime": "2026-04-21T16:33:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 3
+  },
+  {
+    "departureId": "mock-008315",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T18:00:00Z",
+    "actualTime": "2026-04-21T18:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008316",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T19:30:00Z",
+    "actualTime": "2026-04-21T19:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008317",
+    "lineId": "801",
+    "stopId": "740025171",
+    "scheduledTime": "2026-04-21T21:00:00Z",
+    "actualTime": "2026-04-21T21:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008318",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T06:00:00Z",
+    "actualTime": null,
+    "cancelled": false,
+    "delayMinutes": null
+  },
+  {
+    "departureId": "mock-008319",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T07:30:00Z",
+    "actualTime": "2026-04-21T07:40:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 10
+  },
+  {
+    "departureId": "mock-008320",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T09:00:00Z",
+    "actualTime": "2026-04-21T09:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008321",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T10:30:00Z",
+    "actualTime": "2026-04-21T10:33:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 3
+  },
+  {
+    "departureId": "mock-008322",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T12:00:00Z",
+    "actualTime": "2026-04-21T12:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008323",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T13:30:00Z",
+    "actualTime": "2026-04-21T13:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008324",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T15:00:00Z",
+    "actualTime": "2026-04-21T15:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008325",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T16:30:00Z",
+    "actualTime": "2026-04-21T16:39:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 9
+  },
+  {
+    "departureId": "mock-008326",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T18:00:00Z",
+    "actualTime": "2026-04-21T18:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008327",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T19:30:00Z",
+    "actualTime": "2026-04-21T19:30:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  },
+  {
+    "departureId": "mock-008328",
+    "lineId": "801",
+    "stopId": "740025166",
+    "scheduledTime": "2026-04-21T21:00:00Z",
+    "actualTime": "2026-04-21T21:00:00.000Z",
+    "cancelled": false,
+    "delayMinutes": 0
+  }
+]

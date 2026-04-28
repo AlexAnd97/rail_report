@@ -14,12 +14,3 @@
   * Automatiskt genererade insikter av rapporten
   * Spontan tanke, heat map över staden som visar vart mest förseningar skett under vald period? 
   
-Process:
-1. New branch-> specify 
-  a. Looks good? Commit
-2. New branch -> plan
-  a. Looks good? Commit
-3. New branch -> tasks
-  a. Looks good? Commit
-
-Then: Implement. -> Review. Update spec. Repeat.

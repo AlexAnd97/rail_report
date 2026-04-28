@@ -1,0 +1,8 @@
+[
+  { "id": "1",   "name": "Linje 1 Uppsala C – Gottsunda",        "type": "stadsbuss" },
+  { "id": "2",   "name": "Linje 2 Uppsala C – Stenhagen",        "type": "stadsbuss" },
+  { "id": "4",   "name": "Linje 4 Uppsala C – Eriksberg",        "type": "stadsbuss" },
+  { "id": "8",   "name": "Linje 8 Uppsala C – Sävja",            "type": "stadsbuss" },
+  { "id": "801", "name": "Linje 801 Uppsala C – Knivsta",        "type": "regionbuss" },
+  { "id": "811", "name": "Linje 811 Uppsala C – Bålsta",         "type": "regionbuss" }
+]

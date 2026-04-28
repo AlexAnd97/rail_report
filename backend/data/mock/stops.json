@@ -1,0 +1,16 @@
+[
+  { "id": "740000001", "name": "Uppsala C",           "lat": 59.8586, "lon": 17.6389, "lineIds": ["1","2","4","8","801","811"] },
+  { "id": "740025160", "name": "Gottsunda Centrum",   "lat": 59.8172, "lon": 17.6018, "lineIds": ["1"] },
+  { "id": "740025161", "name": "Stenhagens Centrum",  "lat": 59.8791, "lon": 17.6741, "lineIds": ["2"] },
+  { "id": "740025162", "name": "Eriksberg",           "lat": 59.8431, "lon": 17.5951, "lineIds": ["4"] },
+  { "id": "740025163", "name": "Sävja",               "lat": 59.8056, "lon": 17.7024, "lineIds": ["8"] },
+  { "id": "740025164", "name": "Vaksala torg",        "lat": 59.8628, "lon": 17.6621, "lineIds": ["1","8"] },
+  { "id": "740025165", "name": "Kungsängen",          "lat": 59.8482, "lon": 17.6477, "lineIds": ["1","4"] },
+  { "id": "740025166", "name": "Resecentrum Knivsta", "lat": 59.7261, "lon": 17.7909, "lineIds": ["801"] },
+  { "id": "740025167", "name": "Resecentrum Bålsta",  "lat": 59.7200, "lon": 17.5302, "lineIds": ["811"] },
+  { "id": "740025168", "name": "Flogsta",             "lat": 59.8567, "lon": 17.5936, "lineIds": ["2","4"] },
+  { "id": "740025169", "name": "Kronåsen",            "lat": 59.8734, "lon": 17.6512, "lineIds": ["2"] },
+  { "id": "740025170", "name": "Sala backe",          "lat": 59.8678, "lon": 17.6845, "lineIds": ["8"] },
+  { "id": "740025171", "name": "Alsike",              "lat": 59.7800, "lon": 17.7300, "lineIds": ["801"] },
+  { "id": "740025172", "name": "Häggvik",             "lat": 59.7950, "lon": 17.6000, "lineIds": ["811"] }
+]
